@@ -1,0 +1,71 @@
+body {
+	background-color: #d0e0dc;
+}
+
+h1 {
+	text-align: center;
+	font-family: "Patua One";
+	color: white;
+	background-color: rgb(233,200,100);
+	font-size: 1.7em;
+	padding: 15px 0;
+	margin: 0;
+}
+
+#rgbHeading {
+	font-size: 2.7em;
+	text-transform: uppercase;
+}
+
+.setting {
+	background-color: white;
+	text-align: center;
+}
+
+#message {
+/*	font-family: "Abril Fatface";*/
+	width: 20%;
+	display: inline-block;
+}
+
+.squres {
+	max-width: 600px;
+	margin-top: 20px;
+}
+
+.color_squre {
+	margin: 1.66%;
+	width: 30%;
+	padding-bottom: 30%;
+	background-color: white;
+	float: left;
+	transition: background 0.6s;
+	-webkit-transition: background 0.6s;
+	-moz-transition: background 0.6s;
+	border-radius: 15%;
+}
+
+
+button {
+	font-family: "Cabin";
+	border: none;
+	background-color: none;
+	color: #4a9b94;
+	transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+}
+
+button:focus {
+	outline: none;
+}
+
+button:hover {
+	color: white;
+	background-color: #4a9b94;
+}
+
+.change {
+	color: white;
+	background-color: #4a9b94;
+}
