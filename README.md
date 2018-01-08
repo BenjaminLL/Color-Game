@@ -7,8 +7,8 @@ Rules:
   3. Click it.
   
 Models:
-  1. Easy: Four choices of color
-  2. Hard: Eight choices of color
+  1. Easy: Three choices of color
+  2. Hard: Six choices of color
   
 Hint:
   A RGB value is composed by red, green and blue.
